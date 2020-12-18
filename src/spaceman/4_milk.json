@@ -2,7 +2,7 @@
   "name": "spaceman_4_milk",
   "vendorId": "0x5342",
   "productId": "0x3425",
-  "lighting": "none",
+  "lighting": "qmk_rgblight",
   "matrix": {
     "rows": 2,
     "cols": 2
